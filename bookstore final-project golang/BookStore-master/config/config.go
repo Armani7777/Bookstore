@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/g0Influencer/BookStore/app"
+	"github.com/Armani7777/Bookstore/app"
 	"github.com/jinzhu/gorm"
 	"log"
 )
