@@ -1,4 +1,4 @@
-module github.com/g0Influencer/BookStore
+module github.com/Armani7777/Bookstore
 
 go 1.16
 
