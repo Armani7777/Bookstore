@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/g0Influencer/BookStore/app"
-	"github.com/g0Influencer/BookStore/controllers/admincontroller"
-	"github.com/g0Influencer/BookStore/controllers/cartcontroller"
-	"github.com/g0Influencer/BookStore/controllers/favcontroller"
-	"github.com/g0Influencer/BookStore/controllers/productcontroller"
+	"github.com/Armani7777/Bookstore/app"
+	"github.com/Armani7777/Bookstore/controllers/admincontroller"
+	"github.com/Armani7777/Bookstore/controllers/cartcontroller"
+	"github.com/Armani7777/Bookstore/controllers/favcontroller"
+	"github.com/Armani7777/Bookstore/controllers/productcontroller"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/gorilla/mux"
 	"log"
